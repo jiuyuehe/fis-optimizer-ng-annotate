@@ -1,4 +1,4 @@
-# fis-optimizer-ng-annotate
+# qycloud-optimizer-ng-annotate
 
 压缩AngularJS代码前预处理。
 
