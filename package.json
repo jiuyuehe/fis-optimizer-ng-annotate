@@ -1,16 +1,17 @@
 {
   "name": "fis-optimizer-ng-annotate",
   "description": "Adds AngularJS dependency injection annotations.",
-  "version": "0.0.2",
-  "author": "Lamtin <lamtin@qq.com>",
-  "homepage": "http://www.yoozi.cn/",
+  "version": "0.0.1",
+  "author": "AllanJS <googleyufei@qq.com>",
+  "homepage": "http://www.oatos.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lamtin/fis-optimizer-ng-annotate"
+    "url": "https://github.com/qycloud-team/qycloud-optimizer-ng-annotate.git"
   },
   "keywords": [
     "fis",
-    "angular"
+    "angular",
+    "ng-annotate"
   ],
   "main": "index.js",
   "engines": {
